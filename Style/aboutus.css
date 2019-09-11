@@ -1,0 +1,73 @@
+
+body{
+  height: 100%;
+  margin: 0;
+  padding-bottom: 30vh;
+  min-height: 100vh;
+  position: fixed;
+  font-family: 'Montserrat', sans-serif;
+  background: 	#F8F9FB;
+}
+
+.header{
+  background: 	#F8F9FB;
+  display: flex;
+  height: 110px;
+}
+
+.logo img {
+  width: 40%;
+  height: auto;
+}
+
+nav{
+  margin-top: 60px ;
+  margin-left: 150px; 
+    text-decoration: none 
+ }
+
+.a{
+  text-decoration: none;
+  color: black;
+}
+
+.nav-item{
+font-size: 30px;
+display: inline;
+font-size: 25px;
+margin-right: 10px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+  margin-left: -10%;
+ }
+  .mainpage{
+    display: flex;
+    height: auto;
+    justify-content: center;
+    text-align: center;
+    /* padding-left: 0; */
+  }
+
+
+.aboutus{
+    width: 70%;
+    text-align: center;
+    justify-items: center;
+    margin-top: 100px;
+
+
+}
+#map{
+ 
+  width: 350px;
+  height:350px;
+  justify-items: center;
+  text-align: center;
+
+}

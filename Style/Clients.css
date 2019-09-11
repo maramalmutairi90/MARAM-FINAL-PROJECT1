@@ -1,0 +1,54 @@
+
+body{
+    height: 100%;
+    margin: 0;
+    padding-bottom: 0;
+    min-height: 100vh;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    background: 	#F8F9FB;
+  }
+  
+  .header{
+    background: 	#F8F9FB;
+    display: flex;
+    height: 120px;
+  }
+  
+  .logo img {
+    width: 40%;
+    height: auto;
+  }
+  
+  nav{
+    margin-top: 60px ;
+    margin-left: 150px; 
+        text-decoration: none 
+   }
+  .a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  .nav-item{
+  font-size: 30px;
+  display: inline;
+  font-size: 25px;
+  margin-right: 10px;
+  }
+  
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    margin-left: -10%;
+   }
+   
+  .carousel{
+    margin: 100px auto;
+    width: 20%;
+    height: 10x;
+  }
+  
